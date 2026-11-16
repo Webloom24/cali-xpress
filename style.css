@@ -343,6 +343,23 @@ svg {
   outline: 3px solid #1e73be;
   outline-offset: 3px;
 }
+.service-card-featured {
+  border-color: #f3c36a;
+  background: linear-gradient(180deg, #fffdf8 0%, var(--white) 48%);
+}
+.service-priority {
+  align-self: flex-start;
+  margin: 0 0 8px;
+  padding: 5px 9px;
+  border-radius: 999px;
+  color: #a63c1c;
+  background: #fff0d4;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.6px;
+  line-height: 1;
+  text-transform: uppercase;
+}
 .service-icon {
   width: 47px;
   height: 47px;
